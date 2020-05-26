@@ -3,5 +3,6 @@ package com.jeyule;
 public enum ID {
 
     Player(),
-    BasicEnemy();
+    BasicEnemy(),
+    Trail();
 }
